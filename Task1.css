@@ -1,0 +1,103 @@
+body{
+    background-image: url("C:/Users/mihir/OneDrive/Desktop/Nanotech/Project1/Images/Workspace.jpg");
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    margin: 0%;
+    background-attachment: fixed;
+}
+/*ID for div for navigation and Logo*/
+#D1{
+    border: solid 10px ;
+    
+    width: 100%;
+    margin-left: 20px;
+    position: fixed;
+    top:0;
+    
+    background-color: black;         
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    
+}
+ul{
+    
+    text-align: right;
+    word-spacing: 15px;
+    font-size: 25px;
+    display:block;
+    margin:0px;
+    padding: 7px;
+    
+    
+}
+/* For List*/
+li{
+    display: inline;
+   
+   
+   
+    
+}
+/* For List*/
+a{
+    
+    padding: 4px;
+    color: white;
+    text-decoration: none;
+}
+/* For Centre Text*/
+#H1{
+    text-align: center;
+    margin-top: 260px;
+    color:blue;
+    font-size: 120px;
+    letter-spacing: 4px;
+    
+}
+/* For Another Tag*/
+#D2{
+    background-color: goldenrod;
+    top: 160%;
+    position: absolute;
+    height: 1000px;
+    width: 1550px;
+    padding: 7px;
+}
+/* For Another Heading */
+#H2{
+    text-align:center;
+    color: black;
+    font-size: 75px;
+    margin-top: 0px;
+    border:6px solid;
+    background-color: grey;
+}
+/* For Founder/Director */
+#H3{
+    text-align: left;
+    font-size: 40px;
+    color:black;
+    top:200px;
+    
+
+}
+/* Div for Image and text*/
+.container{
+    background-color: azure; 
+    width: 50% ; 
+    height: auto; 
+    text-align: left; 
+    padding: 2px; 
+    margin: 10px auto;
+    position:absolute;
+}
+/*For Images*/
+.image{
+    border-radius: 30%;
+    left:14%;
+    display: inline-block;
+    position: absolute;
+}
+
+
